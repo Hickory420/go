@@ -35,3 +35,5 @@ select SERVER in $LIST Exit ; do
       ;;
   esac
 done
+
+#test
